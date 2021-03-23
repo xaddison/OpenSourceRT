@@ -133,7 +133,7 @@ const ContactPage = () => {
         </FormGrid>
         <Wrap>
           <Social
-            twitter='https://twitter.com/georgeDavituri'
+            twitter='https://twitter.com/'
           />
         </Wrap>
       </Container>

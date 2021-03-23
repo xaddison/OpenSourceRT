@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `George / გიორგი`,
-    description: `Sometimes Full-stack developer from Georgia (Country)`,
-    author: `George Davituri`,
+    title: `SourceRT | Your Real-Time Partner,
+    description: `Software, Projects, Process `,
+    author: `SourceRT`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
