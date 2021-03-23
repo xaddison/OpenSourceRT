@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `SourceRT | Your Real-Time Partner,
-    description: `Software, Projects, Process `,
+    title: `SourceRT | Your Real-Time Partner`,
+    description: `Software, Projects, Process`,
     author: `SourceRT`,
   },
   plugins: [
