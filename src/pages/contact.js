@@ -132,7 +132,9 @@ const ContactPage = () => {
           <Form />
         </FormGrid>
         <Wrap>
-          <Social />
+          <Social
+            twitter='https://twitter.com/'
+          />
         </Wrap>
       </Container>
     </Layout>

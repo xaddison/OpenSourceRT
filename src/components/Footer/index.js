@@ -15,21 +15,21 @@ const Footer = () => {
         <div>
           <h1>About</h1>
           <ul>
-            <li><Link to='/about'>About Me</Link></li>
-            <li><Link to='/blog'>News and Blog</Link></li>
+            <li><Link to='/about'>About</Link></li>
+            <li><Link to='/blog'>News and Projects</Link></li>
             <li><Link to='/gallery'>Gallery</Link></li>
           </ul>
         </div>
         <div>
           <h1>Services</h1>
           <ul>
-            <li><Link to='/projects'>Projects</Link></li>
-            <li><Link to='/contact'>Get Involved</Link></li>
+            <li><Link to='/projects'>Timeline</Link></li>
+            <li><Link to='/contact'>Get Started</Link></li>
           </ul>
         </div>
       </div>
       <div className={style.copyright}>
-        George Davituri © {new Date().getFullYear()}
+        SourceRT © {new Date().getFullYear()}
       </div>
     </footer>
   )
