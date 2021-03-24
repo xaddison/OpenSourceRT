@@ -75,7 +75,7 @@ module.exports = {
         short_name: `SourceRT`,
         start_url: `/`,
         display: `standalone`,
-        theme_color: `#fff`,
+        theme_color: `#663399`,
         icon: `static/assets/world-map.png`
       },
     },
