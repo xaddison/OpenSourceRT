@@ -14,7 +14,7 @@
 
 exports.onClientEntry = () => {
 
-    // require("prismjs/themes/prism-coy.css")
+    require("prismjs/themes/prism-coy.css")
         
-    require("prismjs/themes/prism-atom-dark.css")
+   // require("prismjs/themes/prism-atom-dark.css")
 }
