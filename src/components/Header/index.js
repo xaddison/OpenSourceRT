@@ -46,11 +46,13 @@ export default class Index extends Component {
                     <nav className={navbar}>
                         <ul>
                             <li><Link activeClassName={line} to="/">Main</Link></li>
+
                             <li><Link activeClassName={line} to="/about">About</Link></li>
+                            <li><Link activeClassName={line} to="/blog">Projects</Link></li>
+      
                             <li><Link activeClassName={line} to="/contact">Contact</Link></li>
-                            <li><Link activeClassName={line} to="/blog">Blog</Link></li>
-                
-                            <li><Link activeClassName={line} to="/projects">Projects</Link></li>
+              
+                            <li><Link activeClassName={line} to="/projects">Timeline</Link></li>
                         </ul>
                     </nav>
                 </div>
