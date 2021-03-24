@@ -71,8 +71,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `George / გიორგი Davituri`,
-        short_name: `George / გიორგი`,
+        name: `SourceRT`,
+        short_name: `SourceRT`,
         start_url: `/`,
         display: `standalone`,
         theme_color: `#fff`,
