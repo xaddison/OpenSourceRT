@@ -105,20 +105,20 @@ const Index = () => {
     <Layout>
       <CardWrapp>
         <Card
-          title='Product'
+          title='Tech'
           body='Can contain bunch of buzzwords  lul'
         />
         <Card
-          title='Voice of Customer'
-          body='coding, collaboration, innovation, funny moments, projects'
+          title='Lifestyle'
+          body='coding, collaboration, innovation, funny moments, projects, chillin - hanging out.'
         />
         <Card
-          title='Value of an Owner'
+          title='Spare time'
           body='coding, documentary movies, music, movies, etc.'
         />
       </CardWrapp>
       <CubWrapp>
-        <h3>Think outside the BOX</h3>
+        <h3>Thinking outside the BOX</h3>
         <CubGrid>
           <Cube />
         </CubGrid>

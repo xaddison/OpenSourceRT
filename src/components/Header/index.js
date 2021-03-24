@@ -34,7 +34,7 @@ export default class Index extends Component {
                 <div className={style.container}>
 
                     <Link to="/">
-                        <span className={style.logo}>SourceRT</span>
+                        <span className={style.logo}>გიორგი</span>
                     </Link>
 
                     <div className={hamburger} onClick={this.handleOpen}>
