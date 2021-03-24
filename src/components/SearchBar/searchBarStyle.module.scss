@@ -27,7 +27,7 @@
         padding: 20px;
         border-radius: 30px;
         border: none;
-        background: linear-gradient(to right, rgba(65,90,115,0.9) , #e5eefa );
+        background: linear-gradient(to right, rgba(63, 156, 250, 0.9) , #eff8bf );
         color: white;
         transition: width 1s ease;
         font-size: 1.6em;
@@ -43,7 +43,8 @@
     }
 
     p {
-        color: rgb(38, 55, 73);
+      //  color: rgb(38, 55, 73);
+        color: rgb(38, 82, 129);
         text-transform: uppercase;
         font-size: 1.0em;
         text-align: left;
@@ -61,7 +62,8 @@
      
         &::placeholder {
             padding: 0 3px;
-            color: rgb(38, 55, 73);
+            color: rgb(38, 82, 129);
+           // color: rgb(38, 55, 73);
         }
         
         &:focus {
