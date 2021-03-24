@@ -118,7 +118,7 @@ const Index = () => {
         />
       </CardWrapp>
       <CubWrapp>
-        <h3>Thinking outside the BOX</h3>
+        <h3>Think outside the BOX</h3>
         <CubGrid>
           <Cube />
         </CubGrid>
