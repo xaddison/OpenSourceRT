@@ -8,9 +8,9 @@ import Seo from '../components/seo'
 import Form from '../components/ContactForm'
 import Social from '../components/Social'
 // SVG
-// import backgroundImg from '../../static/assets/1535921965916-1386c9716a66.jpg'
-import backgroundImg from '../../static/assets/SourceRT.png'
-import cover from '../../static/assets/cover.jpg'
+import backgroundImg from '../../static/assets/1535921965916-1386c9716a66.jpg'
+//import backgroundImg from '../../static/assets/SourceRT.png'
+import cover from '../../static/assets/SourceRT.jpg'
 
 const page = keyframes`
   0% {
@@ -135,7 +135,7 @@ const ContactPage = () => {
         <Wrap>
            <h2>Contact</h2>
           <p>
-            Your Source RT<BR><BR>
+            Your Source in RealTime<BR><BR>
             Projects, Logistics, Software, Solutions and Opportunities <BR> 
             for Co-Founders and Investors in Startup. <BR> 
             <BR>
@@ -152,7 +152,7 @@ const ContactPage = () => {
           <p>
             <h3>Impressum</h3>
             <BR>
-            Source RT UG<BR>
+            SourceRT UG<BR>
             Linkstraße 2, Level 8<BR>
             10785 Berlin<BR>
             Germany<BR><BR>
