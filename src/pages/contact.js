@@ -6,7 +6,6 @@ import { breakPoints } from '../components/MediaType'
 import Layout from '../components/Layout'
 import Seo from '../components/seo'
 import Form from '../components/ContactForm'
-import Social from '../components/Social'
 // SVG
 import backgroundImg from '../../static/assets/1535921965916-1386c9716a66.jpg'
 //import backgroundImg from '../../static/assets/SourceRT.png'
@@ -120,7 +119,6 @@ const Wrap = styled.div`
   }
 `
 
-
 const ContactPage = () => {
   return (
     <Layout>
@@ -135,13 +133,13 @@ const ContactPage = () => {
         <Wrap>
            <h2>Contact</h2>
           <p>
-            Your Source in RealTime<BR><BR>
-            Projects, Logistics, Software, Solutions and Opportunities <BR> 
-            for Co-Founders and Investors in Startup. <BR> 
-            <BR>
+            Your Source in RealTime<BR><BR></BR></BR>
+            Projects, Logistics, Software, Solutions and Opportunities <BR></BR> 
+            for Co-Founders and Investors in Startup. <BR></BR> 
+            <BR></BR>
             Coming soon -- reducing your SaaS Spend for Startups and Businesses
-            <BR>
-            <BR>
+            <BR></BR>
+            <BR></BR>
             We specialize in:
              - FinTech
              - EdTech
@@ -151,11 +149,11 @@ const ContactPage = () => {
           </p>
           <p>
             <h3>Impressum</h3>
-            <BR>
-            SourceRT UG<BR>
-            Linkstraße 2, Level 8<BR>
-            10785 Berlin<BR>
-            Germany<BR><BR>
+            <BR></BR>
+            SourceRT UG<BR></BR>
+            Linkstraße 2, Level 8<BR></BR>
+            10785 Berlin<BR></BR>
+            Germany<BR><BR></BR></BR>
          </p>
        </Wrap>
       </Container>

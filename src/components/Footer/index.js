@@ -15,14 +15,9 @@ const Footer = () => {
         <div>
           <h1>About</h1>
           <ul>
-<<<<<<< Updated upstream
             <li><Link to='/about'>About</Link></li>
-            <li><Link to='/blog'>News and Projects</Link></li>
-            <li><Link to='/gallery'>Gallery</Link></li>
-=======
-            <li><Link to='/about'>About Me</Link></li>
-            <li><Link to='/blog'>News and Blog</Link></li>
->>>>>>> Stashed changes
+            <li><Link to='/blog'>Projects</Link></li>
+            <li><Link to='/contact'>Contact</Link></li>
           </ul>
         </div>
         <div>
