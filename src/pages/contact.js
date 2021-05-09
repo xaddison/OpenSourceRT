@@ -8,7 +8,7 @@ import Seo from '../components/seo'
 import Form from '../components/ContactForm'
 // SVG
 import backgroundImg from '../../static/assets/1535921965916-1386c9716a66.jpg'
-//import backgroundImg from '../../static/assets/sourceRT.png'
+//import backgroundImg from 'static/assets/sourceRT.png'
 import cover from '../components/ContactForm/sourceRT.png'
 
 const page = keyframes`
