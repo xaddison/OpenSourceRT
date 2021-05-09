@@ -47,14 +47,30 @@ a {
 	text-decoration: none;
 }
 
+@media (min-width: 300px) {
+	.container {
+		max-width: 300px 
+	}
+}
+
+// .logo {
+//	position: relative;
+//	font-size: 25px;
+//	padding:  22px;
+//	background: linear-gradient(to right, #f7fda0, #ff3b3b);
+// 	background-clip: text;
+// 	-webkit-text-fill-color: transparent;
+// }
+// 
+
 .logo {
 	position: relative;
 	font-size: 25px;
 	padding:  22px;
-	background: linear-gradient(to right, #f7fda0, #ff3b3b);
- 	background-clip: text;
- 	-webkit-text-fill-color: transparent;
+	background-image: 'static/assets/SourceRT.png'; 
 }
+
+
 
 @keyframes logo-spin {
 	from {
