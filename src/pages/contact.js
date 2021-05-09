@@ -9,10 +9,10 @@ import Form from '../components/ContactForm'
 // SVG
 import backgroundImg from '../../static/assets/1535921965916-1386c9716a66.jpg'
 //import backgroundImg from '../../static/assets/SourceRT.png'
-import cover from '../../static/assets/SourceRT.jpg'
+import cover from '../components/ContactForm/SourceRT.png'
 
 const page = keyframes`
-  0% {
+  0% '
     transform: scaleX(0);
     opacity: 0;
   }
