@@ -8,7 +8,8 @@ import Seo from '../components/seo'
 import Form from '../components/ContactForm'
 import Social from '../components/Social'
 // SVG
-import backgroundImg from '../../static/assets/1535921965916-1386c9716a66.jpg'
+// import backgroundImg from '../../static/assets/1535921965916-1386c9716a66.jpg'
+import backgroundImg from '../../static/assets/SourceRT.png'
 import cover from '../../static/assets/cover.jpg'
 
 const page = keyframes`
@@ -132,10 +133,31 @@ const ContactPage = () => {
           <Form />
         </FormGrid>
         <Wrap>
-          <Social
-            twitter='https://twitter.com/'
-          />
-        </Wrap>
+           <h2>Contact</h2>
+          <p>
+            Your Source RT<BR><BR>
+            Projects, Logistics, Software, Solutions and Opportunities <BR> 
+            for Co-Founders and Investors in Startup. <BR> 
+            <BR>
+            Coming soon -- reducing your SaaS Spend for Startups and Businesses
+            <BR>
+            <BR>
+            We specialize in:
+             - FinTech
+             - EdTech
+             - Custom Web/App Development 
+             - Workflow
+             - DevOps
+          </p>
+          <p>
+            <h3>Impressum</h3>
+            <BR>
+            Source RT UG<BR>
+            Linkstraße 2, Level 8<BR>
+            10785 Berlin<BR>
+            Germany<BR><BR>
+         </p>
+       </Wrap>
       </Container>
     </Layout>
   )
