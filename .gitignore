@@ -2,6 +2,4 @@
 # Build directory
 node_modules
 .cache
-public
-src/.DS_Store
 .DS_Store
