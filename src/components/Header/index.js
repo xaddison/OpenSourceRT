@@ -45,6 +45,7 @@ export default class Index extends Component {
 
                     <nav className={navbar}>
                         <ul>
+<<<<<<< HEAD
                             <li><Link activeClassName={line} to="/">Home</Link></li>
 
                             <li><Link activeClassName={line} to="/about">About</Link></li>
@@ -53,6 +54,15 @@ export default class Index extends Component {
                             <li><Link activeClassName={line} to="/contact">Contact</Link></li>
               
                             <li><Link activeClassName={line} to="/projects">Timeline</Link></li>
+=======
+                        <li><Link activeClassName={line} to="/projects">Projects</Link></li>    
+                     //       <li><Link activeClassName={line} to="/">Main</Link></li>
+                     //       <li><Link activeClassName={line} to="/about">About</Link></li>
+                     //       <li><Link activeClassName={line} to="/contact">Contact</Link></li>
+                            <li><Link activeClassName={line} to="/blog">Blog</Link></li>
+                     //       <li><Link activeClassName={line} to="/gallery">Gallery</Link></li>
+                            <li><Link activeClassName={line} to="/projects">Projects</Link></li>
+>>>>>>> deploy
                         </ul>
                     </nav>
                 </div>

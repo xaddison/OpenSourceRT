@@ -1,8 +1,14 @@
 module.exports = {
   siteMetadata: {
+<<<<<<< HEAD
     title: `SourceRT | Your Real-Time Partner`,
     description: `Software, Projects, Process`,
     author: `SourceRT`,
+=======
+    title: `SourceRT UG`,
+    description: `Project Staffing, Management and Value in Real-Time `,
+    author: `X`,
+>>>>>>> deploy
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
