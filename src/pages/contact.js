@@ -122,9 +122,7 @@ const ContactPage = () => {
     <Layout>
       <Container>
         <Seo title='Contact' />
-      //  <TopImg src={cover} />
-    //    <Background src={backgroundImg} />
-        <Backend />
+            <Backend />
         <FormGrid>
           <Form />
         </FormGrid>
