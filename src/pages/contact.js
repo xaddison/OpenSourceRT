@@ -122,8 +122,8 @@ const ContactPage = () => {
     <Layout>
       <Container>
         <Seo title='Contact' />
-        <TopImg src={cover} />
-        <Background src={backgroundImg} />
+      //  <TopImg src={cover} />
+    //    <Background src={backgroundImg} />
         <Backend />
         <FormGrid>
           <Form />
